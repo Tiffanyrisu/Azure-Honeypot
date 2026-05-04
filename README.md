@@ -6,7 +6,7 @@ In this project, I created a basic home Security Operations Center (SOC) in the 
 <br />
 <br />
 
-<img src="(https://canva.link/km81uk55jf1rcq4)" height="40%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Green and Pink Simple Beauty Logo.png" height="40%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
