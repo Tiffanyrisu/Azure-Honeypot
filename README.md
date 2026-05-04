@@ -2,11 +2,11 @@
 
 <h2>Description</h2>
 <p align="center">
-This project consists of building a honeypot virtual machine using Azure in order to simulate cyber attacks in real-time. The skills used in this project include Microsoft Azure cloud, Microsoft Sentinel, and threat monitoring. 
+In this project, I created a basic home Security Operations Center (SOC) in the cloud using a Microsoft Azure subscription. I deployed a virtual machine (VM) to act as a honeypot, intentionally opening it up to the public internet to attract cyber attacks. I then configured log forwarding to a central repository, connected it to a Security Information and Event Management (SIEM) system (Microsoft Sentinel), and used a geographic dataset to create a live map visualizing the locations of the attackers
 <br />
 <br />
 
-<img src="https://i.imgur.com/MMVkp80.png" height="40%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="(https://canva.link/km81uk55jf1rcq4)" height="40%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
