@@ -6,7 +6,7 @@ In this project, I created a basic home Security Operations Center (SOC) in the 
 <br />
 <br />
 
-<img src="Honeypot map.png" height="40%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="HoneyPot Project.png" height="40%" width="60%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
