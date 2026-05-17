@@ -72,11 +72,11 @@ Configured the Workbook to output the query results onto an interactive heat map
 
 <p align="center">
   <br/>
-<img src="HoneyPot Project (1).png" height="40%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Threat Activity Heat Map.png" height="50%" width="90%" alt="Disk Sanitization Steps"/>
 <br />
-After letting the virtual machine to run for a few hours, I observed several key findings. First, there were many failed attempts at logging in all over the world. Russia, by far had the most, at 68%, but Asia and the United States also had noticeably high numbers. Second, many of the hackers trying to brute force their way in used 'admin' in their username guess. Third, these security events only happened after the firewall was turned off and only got worse from there. 
 
-<br />
+The heat map highlights a few clear hotspots, with most of the activity coming from places like the Netherlands, Chile, the United States, and Brazil. Seeing so many events appear so quickly and from all over the world shows how much of this traffic is driven by automated scanners and bots that constantly sweep the internet. It’s a strong reminder that anything exposed to the public web gets noticed fast, even when it isn’t a real target. 
+
 <br />
 <h2>Conclusion</h2>
 
