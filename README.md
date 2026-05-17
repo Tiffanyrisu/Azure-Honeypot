@@ -72,7 +72,7 @@ Configured the Workbook to output the query results onto an interactive heat map
 
 <p align="center">
   <br/>
-<img src="https://i.imgur.com/X7l5TzJ.png" height="40%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="HoneyPot Project (1).png" height="40%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 After letting the virtual machine to run for a few hours, I observed several key findings. First, there were many failed attempts at logging in all over the world. Russia, by far had the most, at 68%, but Asia and the United States also had noticeably high numbers. Second, many of the hackers trying to brute force their way in used 'admin' in their username guess. Third, these security events only happened after the firewall was turned off and only got worse from there. 
 
